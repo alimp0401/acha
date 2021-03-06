@@ -1,2 +1,2 @@
 # acha
-simple chat
+simple chat with console interface
